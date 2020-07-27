@@ -1,0 +1,40 @@
+body{ 
+} 
+
+#h11{ 
+    text-align: center;
+    background:linear-gradient(rgb(51, 90, 197), rgba(56, 195, 230, 0.911))
+    
+}
+ h2{ 
+
+ }
+
+ #h11{ font-family: initial
+
+ }
+ #tx { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin-left: 10cm;
+    margin-right: 10cm;
+    position:absolute; top: 3cm;
+}
+#ti{ font-size: 20px;
+}
+
+p{ text-align: left; 
+}
+
+#bd{ margin-right: 27cm; 
+background-color: lightblue;
+position: absolute; top: 2cm;
+}
+
+#ld{ margin-left: 27cm;
+    position: absolute; top: 2cm;
+    background-color: lightgreen;
+
+
+
+
+
+}
